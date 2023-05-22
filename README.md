@@ -10,4 +10,6 @@ In the WeatherManager folder can you find the LocationDataManager.swift, which e
 
 ### Views
 In the Views folder there are four views: AlarmClockView, ContentView, MainView and MusicView.
-
+In the AlarmClockView you can add a new alarm with a name and save that alarm.
+In the ContentView is a NavigationView where you can switch between all Views.
+In the MainView
